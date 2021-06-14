@@ -1,0 +1,13 @@
+s="my blog"
+a=s.upper()
+b=s.lower()
+c=s.islower()
+d=s.isupper()
+e=s.isalpha()
+f=s.isdigit()
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
